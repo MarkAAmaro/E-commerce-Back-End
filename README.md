@@ -2,7 +2,7 @@
 
 ## Description
 
-This application is to provide a back end using Node.js, Express.js, MySQL, Sequelize, and Dotenv. This back end application helps manage effective ways to manage data using moder technologies.
+This application is to provide a back end using Node.js, Express.js, MySQL, Sequelize, and Dotenv. This back end application helps manage effective ways to set data using modern technologies.
 
 ## Features
 - Sequelize and MySQL for database management
