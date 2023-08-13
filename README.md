@@ -31,3 +31,4 @@ This application is to provide a back end using Node.js, Express.js, MySQL, Sequ
 ## Testing
 
 To validate the functionality of the application, you can use Insomnia or any other API testing tool to test the API POST, PUT, and DELETE routes. You should be able to successfully create, update, and delete data in your database
+Here is the video walkthrough: https://youtu.be/BbKwH-6T45s
